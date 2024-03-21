@@ -5,7 +5,7 @@ import time
 import telebot
 
 #armarzena chave api em uma variavel
-chave_api = '6874563467:AAFobXagFci2sBX-nxMjIv3TIhWswiVT3eI'
+chave_api = ''
 #cria o bot sem as funcionalidades
 bot = telebot.TeleBot(chave_api)
 
